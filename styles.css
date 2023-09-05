@@ -1,1 +1,61 @@
-
+.main{
+	width:900px;
+	height:550px;
+	background:lightblue;
+	display:flex;
+}
+.photo{
+	width:150px;
+	height: 180px;
+    margin-top:30px;
+	margin-left:20px;
+}
+.main-body{
+	display:flex;
+}
+.data{
+	margin-top:35px;
+	margin-left:10px;
+}
+h1{
+	font-size:35px;
+	margin-left:20px;
+}
+.skill-bars{
+	margin-left:20px;
+	padding:5px;
+}
+#file{
+	width:400px
+}
+.per{
+    margin-left:180px;
+}
+.per-1{
+    margin-left:207px;
+}
+.per-2{
+    margin-left:192px;
+}
+.per-3{
+    margin-left:263px;
+}
+.bar{
+	width:100px;
+	height:5px;
+	background:blue;
+	margin-left:20px;
+	margin-bottom:
+}
+.about{
+	box-sizing:border-box;
+	overflow:hidden;
+}
+.me{
+	font-size:35px;
+	margin-top:30px;
+}
+.test{
+	margin-top:100px;
+	margin-left:20px;
+}
